@@ -1,4 +1,4 @@
-# exemplo-autenticacao
+# E-commerce
 
 ## Project setup
 ```
