@@ -33,6 +33,7 @@ const router = new Router({
                 authRequired: true
             }
         },
+
         {
             path: '/category/create',
             name: 'criarCategotia',

@@ -13,6 +13,8 @@
                         <b-dropdown-item to="/products/category">Produtos</b-dropdown-item>
                     </b-nav-item-dropdown>
                     <b-nav-item to="/about">About</b-nav-item>
+
+
                 </b-navbar-nav>
 
                 <!-- Right aligned nav items -->

@@ -4,6 +4,8 @@ import router from './router'
 import store from './store'
 import VueProgressBar from 'vue-progressbar'
 
+
+
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap-vue/dist/bootstrap-vue.min.css'
 
